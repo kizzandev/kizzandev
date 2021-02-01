@@ -1,4 +1,4 @@
-## 👋 Hello, Lupci here! But I guess you probably already know me, sort of.
+## 👋 Hello, Nivekizzan here! But I guess you probably already know me, sort of.
 
 <!--
 **Lupci/Lupci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
