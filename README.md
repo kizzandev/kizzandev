@@ -1,5 +1,7 @@
 ## 👋 Hello, Nivekizzan here! But I guess you probably already know me, sort of.
 
+![](https://komarev.com/ghpvc/?username=Nivekizzan&style=plastic&label=Number+of+Lovely+Beings+=&color=2D9CDB)
+
 <!--
 **Nivekizzan/Nivekizzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
