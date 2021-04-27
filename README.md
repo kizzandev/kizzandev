@@ -1,4 +1,6 @@
 ## 👋 Hello, Nivekizzan here! But I guess you probably already know me, sort of.
+Here is my broken page! 💾💥🌐
+https://nivekizzan.github.io/
 
 <!--
 **Nivekizzan/Nivekizzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
