@@ -1,6 +1,12 @@
 ## 👋 Hello, Nivekizzan here! But I guess you probably already know me, sort of.
 Here is my broken page! 💾💥🌐
+
 https://nivekizzan.github.io/
+
+Progress: (i'm currently making it offline)
+* Landing ✔
+* Connect with me links ✔
+* About - in progress
 
 <!--
 **Nivekizzan/Nivekizzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
