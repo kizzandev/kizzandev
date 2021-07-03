@@ -1,6 +1,6 @@
-## 👋 Hello, Nivekizzan here! But I guess you probably already know me, sort of.
+## 👋 Hello, Kevin Zanzi here! But I guess you probably already know me, sort of.
 
-https://nivekizzan.github.io/
+https://kevinzanzi.github.io/
 
 <!--
 **Nivekizzan/Nivekizzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
