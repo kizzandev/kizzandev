@@ -41,7 +41,7 @@
 <!-- <a href="mailto:"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a> -->
 </p>
 
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=kevinzanzi&left_text=" alt="visitor badge"/></p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=kevinzanzi&left_text=Profile%20views" alt="visitor badge"/></p>
 
 <!--
 **Nivekizzan/Nivekizzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
