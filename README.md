@@ -3,7 +3,7 @@
 **`Apparently human`** **`Jobless`**
 
 I have knowledge of web application development, Python programming and a little C++; I am currently studying Django.\
-Motivated to put my skills to the test in a full-stack or (software and systems) development enviroment, and to continue to learn and grow.\
+Motivated to put my skills to the test in a full-stack or (software and systems) development enviroment, and to continue to learn and grow.
 
 <a href="https://www.youtube.com/channel/UCwi04PRBTqOoXohKAz6HJ9A?sub_confirmation=1">
   <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCwi04PRBTqOoXohKAz6HJ9A?color=%23E05D44&label=KEV%20CMD%20EN&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
