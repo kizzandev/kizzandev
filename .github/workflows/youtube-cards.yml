@@ -13,11 +13,11 @@ jobs:
         with:
           channel_id: UCwi04PRBTqOoXohKAz6HJ9A
           comment_tag_name: YOUTUBE-CARDS-EN
-          # youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          # show_duration: true
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCwi04PRBTqOoXohKAz6HJ9A
           comment_tag_name: YOUTUBE-CARDS-AR
-          # youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          # show_duration: true
+          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          show_duration: true
