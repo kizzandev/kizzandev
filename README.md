@@ -1,64 +1,68 @@
 <h1>Hello there, Kevin here!</h1>
 
-<h3>About me</h3>
+**`Apparently human`** **`Jobless`**
 
-- &nbsp; Studying Information Systems Engineering
-- &nbsp; Looking for first job as Software Engineer and/or Full Stack Developer
+I have knowledge of web application development, Python programming and a little C++; I am currently studying Django.\
+Motivated to put my skills to the test in a full-stack or (software and systems) development enviroment, and to continue to learn and grow.\
 
-<h3>Courses</h3>
+<a href="https://www.youtube.com/channel/UCwi04PRBTqOoXohKAz6HJ9A?sub_confirmation=1">
+  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCwi04PRBTqOoXohKAz6HJ9A?color=%23E05D44&label=KEV%20CMD%20EN&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+</a>
 
-- &nbsp; Python Full Stack Developer, GCBA - 2022
+<a href="https://www.youtube.com/channel/UCPNvsQMsgzGWx_yBdksoD2Q?sub_confirmation=1">
+  <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCPNvsQMsgzGWx_yBdksoD2Q?color=%23E05D44&label=KEV%20CMD%20AR&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
+</a>
 
-<h3>Languages</h3>
+<a href="https://github.com/kevinzanzi?tab=followers">
+  <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kevinzanzi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
+</a>
+<a href="https://github.com/kevinzanzi?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kevinzanzi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
+</a>
 
-- &nbsp; Spanish, native
-- &nbsp; English, Advanced
+<a href="https://www.linkedin.com/in/kevinzanzi/">
+  <img alt="followers" title="Follow me on Linked In" src="https://img.shields.io/badge/LinkedIn-0077B5?color=1155ba&labelColor=1155ba&style=for-the-badge&logo=person-add&logoColor=white"/>
+</a>
 
-<h3>Laguages and Tools</h3>
+---
+
+### Languages and Tools
 
 <p>
-<!-- <code><img height="30" src=""></code> -->
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b53559399dae7b2e2d8b/topics/figma/figma.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png"></code>
+  <img align="left" width="30px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="left" width="30px" alt="CPP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="left" width="30px" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="left" width="30px" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="left" width="30px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="left" width="30px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+  <img align="left" width="30px" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="left" width="30px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" width="30px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="left" width="30px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
+  
 <!-- 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
+<img align="left" width="30px" alt="Vue" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+<img align="left" width="30px" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="left" width="30px" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+<img align="left" width="30px" alt="Azure" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
+<img align="left" width="30px" alt="C" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img align="left" width="30px" alt="C Make" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg">
+<img align="left" width="30px" alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img align="left" width="30px" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+<img align="left" width="30px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" ">
+<img align="left" width="30px" alt="Dot NET Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+<img align="left" width="30px" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
+<img align="left" width="30px" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+<img align="left" width="30px" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+<img align="left" width="30px" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+<img align="left" width="30px" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg">
+<img align="left" width="30px" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img align="left" width="30px" alt="Unreal Engine 5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg">
+<img align="left" width="30px" alt="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 -->
-</p>
 
-<p>
-  <img align="center" alt="Kevin's github stats" src="https://github-readme-stats.vercel.app/api?username=kevinzanzi&show_icons=true&theme=dracula&hide=contribs,issues,prs" />
-</p>
+<br/>
 
-<h3>Connect with Me</h3>
+#
 
-<p>
-<a href="https://kevinzanzi.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-kevinzanzi.github.io-blue?style=flat-square&logo=firefox"></a>
-<a href="https://www.linkedin.com/in/kevinzanzi/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kevin%20Zanzi-blue?style=flat-square&logo=linkedin"></a>
-<!-- <a href="mailto:"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a> -->
-</p>
-
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=kevinzanzi&left_text=Profile%20views" alt="visitor badge"/></p>
-
-<!--
-**Nivekizzan/Nivekizzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 👋 Hello
--->
