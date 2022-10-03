@@ -64,5 +64,12 @@ Motivated to put my skills to the test in a full-stack or (software and systems)
 
 <br/>
 
-#
+# 
 
+### Latest Kev cmd en Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
+
+# 
