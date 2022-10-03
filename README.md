@@ -68,8 +68,16 @@ Motivated to put my skills to the test in a full-stack or (software and systems)
 
 ### Latest Kev cmd en Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
+<!-- BEGIN YOUTUBE-CARDS-EN -->
 
-<!-- END YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS-EN -->
 
 # 
+
+### Latest Kev cmd en Videos
+
+<!-- BEGIN YOUTUBE-CARDS-AR -->
+
+<!-- END YOUTUBE-CARDS-AR -->
+
+#
