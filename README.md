@@ -24,6 +24,12 @@ Motivated to put my skills to the test in a full-stack or (software and systems)
   <img alt="followers" title="Follow me on Linked In" src="https://img.shields.io/badge/LinkedIn-0077B5?color=1155ba&labelColor=1155ba&style=for-the-badge&logo=person-add&logoColor=white"/>
 </a>
 
+<!--
+<a href="https://github.com/sponsors/kevinzanzi">
+  <img alt="Sponsor with Github" title="Sponsor with Github" src="https://custom-icon-badges.demolab.com/badge/-Sponsor-ea4aaa?style=for-the-badge&logo=heart&logoColor=white"/>
+</a>
+-->
+
 ---
 
 ### Languages and Tools
