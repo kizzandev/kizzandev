@@ -70,7 +70,7 @@ Motivated to put my skills to the test in a full-stack or (software and systems)
 
 <br/>
 
-# 
+#
 
 ### Latest Kev cmd en Videos
 
@@ -78,7 +78,7 @@ Motivated to put my skills to the test in a full-stack or (software and systems)
 
 <!-- END YOUTUBE-CARDS-EN -->
 
-# 
+#
 
 ### Latest Kev cmd ar Videos
 
