@@ -5,13 +5,13 @@
 I have knowledge of web application development, Python programming and a little C++; I am currently studying Django.\
 Motivated to put my skills to the test in a full-stack or (software and systems) development enviroment, and to continue to learn and grow.
 
-<a href="https://www.youtube.com/channel/UCwi04PRBTqOoXohKAz6HJ9A?sub_confirmation=1">
+<!-- <a href="https://www.youtube.com/channel/UCwi04PRBTqOoXohKAz6HJ9A?sub_confirmation=1">
   <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCwi04PRBTqOoXohKAz6HJ9A?color=%23E05D44&label=KEV%20CMD%20EN&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
 </a>
 
 <a href="https://www.youtube.com/channel/UCPNvsQMsgzGWx_yBdksoD2Q?sub_confirmation=1">
   <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCPNvsQMsgzGWx_yBdksoD2Q?color=%23E05D44&label=KEV%20CMD%20AR&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
-</a>
+</a> -->
 
 <a href="https://github.com/kevinzanzi?tab=followers">
   <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/kevinzanzi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
@@ -68,22 +68,22 @@ Motivated to put my skills to the test in a full-stack or (software and systems)
 <img align="left" width="30px" alt="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 -->
 
-<br/>
+<!-- <br/>
 
 #
 
-### Latest Kev cmd en Videos
+### Latest Kev cmd en Videos -->
 
 <!-- BEGIN YOUTUBE-CARDS-EN -->
 
 <!-- END YOUTUBE-CARDS-EN -->
 
-#
+<!-- #
 
-### Latest Kev cmd ar Videos
+### Latest Kev cmd ar Videos -->
 
 <!-- BEGIN YOUTUBE-CARDS-AR -->
 
 <!-- END YOUTUBE-CARDS-AR -->
 
-#
+<!-- # -->
