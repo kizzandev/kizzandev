@@ -1,9 +1,9 @@
 <h1>Hello there, Kevin here!</h1>
 
-**`Apparently human`** **`Jobless`**
+**`Apparently human`** **`Looking for a job`** **`Looking for interview practice`**
 
 I have knowledge of web application development, Python programming and a little C++; I am currently studying Django.\
-Motivated to put my skills to the test in a full-stack or (software and systems) development enviroment, and to continue to learn and grow.
+Motivated to put my skills to the test in (front|back)-end or software development, and to continue to learn and grow.
 
 <!-- <a href="https://www.youtube.com/channel/UCwi04PRBTqOoXohKAz6HJ9A?sub_confirmation=1">
   <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCwi04PRBTqOoXohKAz6HJ9A?color=%23E05D44&label=KEV%20CMD%20EN&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
@@ -30,21 +30,29 @@ Motivated to put my skills to the test in a full-stack or (software and systems)
 </a>
 -->
 
+#
+
+<sub>Note:<br>
+If you are offering a job for (Front|Back)-end or Software Development, please do send me a message.<br>
+I am interested in Python, C++, Django, DRF, React, React-Native and Flutter, but open to anything else as well.<br>
+I really do enjoy learning.
+</sub>
+
 ---
 
 ### Languages and Tools
 
 <p>
-  <img align="left" width="30px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="left" width="30px" alt="CPP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="left" width="30px" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="left" width="30px" alt="CPP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="left" width="30px" alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="left" width="30px" alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   <img align="left" width="30px" alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="left" width="30px" alt="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="left" width="30px" alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="left" width="30px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" width="30px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img align="left" width="30px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="left" width="30px" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="left" width="30px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+  <img align="left" width="30px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </p>
   
 <!-- 
@@ -56,7 +64,7 @@ Motivated to put my skills to the test in a full-stack or (software and systems)
 <img align="left" width="30px" alt="C Make" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg">
 <img align="left" width="30px" alt="C Sharp" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img align="left" width="30px" alt="Dart" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-<img align="left" width="30px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" ">
+<img align="left" width="30px" alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 <img align="left" width="30px" alt="Dot NET Core" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
 <img align="left" width="30px" alt="Firebase" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
 <img align="left" width="30px" alt="Flutter" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
@@ -72,7 +80,7 @@ Motivated to put my skills to the test in a full-stack or (software and systems)
 
 #
 
-### Latest Kev cmd en Videos -->
+### Latest real CLI en Videos -->
 
 <!-- BEGIN YOUTUBE-CARDS-EN -->
 
@@ -80,7 +88,7 @@ Motivated to put my skills to the test in a full-stack or (software and systems)
 
 <!-- #
 
-### Latest Kev cmd ar Videos -->
+### Latest real CLI ar Videos -->
 
 <!-- BEGIN YOUTUBE-CARDS-AR -->
 
