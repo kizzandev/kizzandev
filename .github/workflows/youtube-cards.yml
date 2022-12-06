@@ -2,7 +2,7 @@ name: Github Readme YouTube Cards
 on:
   schedule:
     # Runs every hour, on the hour
-    - cron: "0 * * * *"
+    - cron: '0 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -11,13 +11,13 @@ jobs:
     steps:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
-          channel_id: UCwi04PRBTqOoXohKAz6HJ9A
-          comment_tag_name: YOUTUBE-CARDS-EN
+          channel_id: UCE0aak4Jja39-GEnrwdfaQw
+          comment_tag_name: YOUTUBE-CODING-WITH-KEVIN
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
-      - uses: DenverCoder1/github-readme-youtube-cards@main
-        with:
-          channel_id: UCwi04PRBTqOoXohKAz6HJ9A
-          comment_tag_name: YOUTUBE-CARDS-AR
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
-          show_duration: true
+      # - uses: DenverCoder1/github-readme-youtube-cards@main
+      #   with:
+      #     channel_id: -
+      #     comment_tag_name: YOUTUBE-CARDS-AR
+      #     youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+      #     show_duration: true
