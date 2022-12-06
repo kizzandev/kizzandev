@@ -77,8 +77,9 @@ I enjoy learning, coding, travelling, and more.
 <img align="left" width="30px" alt="tailwindcss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 -->
 
-<!-- <br/>
+<br/>
 
+<!--
 #
 
 ### Latest Coding With Kevin en Videos -->
