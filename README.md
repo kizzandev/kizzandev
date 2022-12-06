@@ -1,9 +1,10 @@
 <h1>Hello there, Kevin here!</h1>
 
-**`Apparently human`** **`Looking for a job`** **`Looking for interview practice`**
+**`Apparently human`** **`Looking for a job`**
 
-I have knowledge of web application development, Python programming and a little C++; I am currently studying Django.\
-Motivated to put my skills to the test in (front|back)-end or software development, and to continue to learn and grow.
+I am very interested in applying for a Junior role.\
+I may not have experience yet, but I am really looking forward to develop my programming skills while simultaneously contributing to a business.\
+If you are not in a hiring position, but have some ideas on how to improve this Github, do not doubt to send me a message!
 
 <!-- <a href="https://www.youtube.com/channel/UCwi04PRBTqOoXohKAz6HJ9A?sub_confirmation=1">
   <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCwi04PRBTqOoXohKAz6HJ9A?color=%23E05D44&label=KEV%20CMD%20EN&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/>
@@ -32,10 +33,10 @@ Motivated to put my skills to the test in (front|back)-end or software developme
 
 #
 
-<sub>Note:<br>
-If you are offering a job for (Front|Back)-end or Software Development, please do send me a message.<br>
-I am interested in Python, C++, Django, DRF, React, React-Native and Flutter, but open to anything else as well.<br>
-I really do enjoy learning.
+<sub>Note:\
+If you are a Recruiter, please do send me a message with tips on how to improve about my profile!\
+I am interested in programming and I look for interships or junior positions, but I'm open to any interships in Business related fields.\
+I enjoy learning, coding, travelling, and more.
 </sub>
 
 ---
@@ -80,18 +81,8 @@ I really do enjoy learning.
 
 #
 
-### Latest real CLI en Videos -->
+### Latest Coding With Kevin en Videos -->
 
 <!-- BEGIN YOUTUBE-CARDS-EN -->
 
 <!-- END YOUTUBE-CARDS-EN -->
-
-<!-- #
-
-### Latest real CLI ar Videos -->
-
-<!-- BEGIN YOUTUBE-CARDS-AR -->
-
-<!-- END YOUTUBE-CARDS-AR -->
-
-<!-- # -->
