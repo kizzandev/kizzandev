@@ -13,7 +13,7 @@ jobs:
         with:
           channel_id: UCE0aak4Jja39-GEnrwdfaQw
           comment_tag_name: YOUTUBE-CODING-WITH-KEVIN
-          youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
+          # youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           # show_duration: true
       # - uses: DenverCoder1/github-readme-youtube-cards@main
       #   with:
