@@ -26,18 +26,23 @@ Interested in opportunities to showcase my skills and knowledge through full or 
 <!-- ![Static Badge](https://img.shields.io/badge/GDScript-%231c1b1e?style=for-the-badge&logo=GodotEngine&color=%23320000) -->
 <!-- ![Static Badge](https://img.shields.io/badge/Mojo-%231c1b1e?style=for-the-badge&label=%F0%9F%94%A5&labelColor=%23320000&color=%23320000) -->
 
-## Other Technologies
+## Web Development
 
 ![Static Badge](https://img.shields.io/badge/Node.JS-%231c1b1e?style=for-the-badge&logo=Node.JS)
 ![Static Badge](https://img.shields.io/badge/HTML5-%231c1b1e?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231c1b1e?style=for-the-badge&logo=CSS3)
-![Static Badge](https://img.shields.io/badge/Figma-%231c1b1e?style=for-the-badge&logo=Figma)
-![Static Badge](https://img.shields.io/badge/Git-%231c1b1e?style=for-the-badge&logo=Git)
-![Static Badge](https://img.shields.io/badge/GitHub-%231c1b1e?style=for-the-badge&logo=GitHub)
-![Static Badge](https://img.shields.io/badge/VSCode-%231c1b1e?style=for-the-badge&logo=VisualStudioCode)
 <!-- ![Static Badge](https://img.shields.io/badge/Svelte-%231c1b1e?style=for-the-badge&logo=Svelte&color=%23320000) -->
 <!-- ![Static Badge](https://img.shields.io/badge/SvelteKit-%231c1b1e?style=for-the-badge&logo=Svelte&color=%23320000) -->
 <!-- ![Static Badge](https://img.shields.io/badge/Django-%231c1b1e?style=for-the-badge&logo=Django&color=%23320000) -->
+
+<!-- ### Frameworks -->
+
+## Tools
+
+![Static Badge](https://img.shields.io/badge/GitHub-%231c1b1e?style=for-the-badge&logo=GitHub)
+![Static Badge](https://img.shields.io/badge/VSCode-%231c1b1e?style=for-the-badge&logo=VisualStudioCode)
+![Static Badge](https://img.shields.io/badge/Figma-%231c1b1e?style=for-the-badge&logo=Figma)
+![Static Badge](https://img.shields.io/badge/Git-%231c1b1e?style=for-the-badge&logo=Git)
 
 <!-- ## Databases -->
 
