@@ -1,4 +1,4 @@
-<h1>Hello there, Kevin here!</h1>
+<h1>Hello, Kevin here.</h1>
 
 **`Hooman is looking for a job`**
 
