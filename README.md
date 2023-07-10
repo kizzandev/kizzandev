@@ -59,17 +59,15 @@ Interested in opportunities to showcase my skills and knowledge through full or 
 ![Static Badge](https://img.shields.io/badge/English-%231c1b1e?style=for-the-badge)
 <!-- ![Static Badge](https://img.shields.io/badge/Italiano-%231c1b1e?style=for-the-badge&color=%23320000) -->
 
-<span style="opacity: 0.2">
+<!-- <span style="opacity: 0.2"> -->
 
 ## Open to Learn
 
-![Static Badge](https://img.shields.io/badge/Rust-%231c1b1e?style=for-the-badge&logo=Rust&color=%23003202)
-![Static Badge](https://img.shields.io/badge/Mojo_%F0%9F%94%A5-%231c1b1e?style=for-the-badge&color=%23003202)
-![Static Badge](https://img.shields.io/badge/Databases-%231c1b1e?style=for-the-badge&color=%23003202)
-![Static Badge](https://img.shields.io/badge/Web_Frameworks-%231c1b1e?style=for-the-badge&color=%23003202)
-![Static Badge](https://img.shields.io/badge/MORE%3F-%231c1b1e?style=for-the-badge&color=%23003202)
+![Static Badge](https://img.shields.io/badge/Rust-%231c1b1e?style=for-the-badge&logo=Rust)
+![Static Badge](https://img.shields.io/badge/Go-%231c1b1e?style=for-the-badge&logo=Go)
+![Static Badge](https://img.shields.io/badge/AND%20MORE!-%231c1b1e?style=for-the-badge)
 
-</span>
+<!-- </span> -->
 
 <!-- \* Red means I do know know it much, possiblely learning or vague to none understanding.\ -->
 
