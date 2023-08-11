@@ -1,6 +1,6 @@
 <h1>Hello, Kevin here.</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=16&pause=0000&color=E6EDF3&vCenter=true&width=435&lines=Kevin+Zanzi;Software+Developer;Software+Engineer;Systems+Engineer" alt="Typing SVG" style="width:100%;" />
+<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=16&pause=0000&color=E6EDF3&vCenter=true&width=435&lines=Kevin+Zanzi;Software+Developer;Software+Engineer;Systems+Engineer" alt="Typing SVG" style="width:100%;" /> -->
 
 Interested in opportunities such as full or part time remote jobs.
 
@@ -70,9 +70,11 @@ Click here to expand!
 
 ### Open to Learn
 
-![Static Badge](https://img.shields.io/badge/Rust-%231c1b1e?style=for-the-badge&logo=Rust)
-![Static Badge](https://img.shields.io/badge/Go-%231c1b1e?style=for-the-badge&logo=Go)
-![Static Badge](https://img.shields.io/badge/AND%20MORE!-%231c1b1e?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/More%20Technologies-%231c1b1e?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Other%20Stuff-%231c1b1e?style=for-the-badge)
+<!-- ![Static Badge](https://img.shields.io/badge/Rust-%231c1b1e?style=for-the-badge&logo=Rust) -->
+<!-- ![Static Badge](https://img.shields.io/badge/Go-%231c1b1e?style=for-the-badge&logo=Go) -->
+<!-- ![Static Badge](https://img.shields.io/badge/AND%20MORE!-%231c1b1e?style=for-the-badge) -->
 
 <!-- </span> -->
 
