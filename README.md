@@ -38,6 +38,11 @@ Click here to expand!
 ![Static Badge](https://img.shields.io/badge/Node.JS-%231c1b1e?style=for-the-badge&logo=Node.JS)
 ![Static Badge](https://img.shields.io/badge/HTML5-%231c1b1e?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231c1b1e?style=for-the-badge&logo=CSS3)
+![Static Badge](https://img.shields.io/badge/React-%231c1b1e?style=for-the-badge&logo=React)
+![Static Badge](https://img.shields.io/badge/Vite-%231c1b1e?style=for-the-badge&logo=Vite)
+![Static Badge](https://img.shields.io/badge/Tailwindcss-%231c1b1e?style=for-the-badge&logo=Tailwindcss)
+![Static Badge](https://img.shields.io/badge/npm-%231c1b1e?style=for-the-badge&logo=npm)
+![Static Badge](https://img.shields.io/badge/pnpm-%231c1b1e?style=for-the-badge&logo=pnpm)
 <!-- ![Static Badge](https://img.shields.io/badge/Svelte-%231c1b1e?style=for-the-badge&logo=Svelte&color=%23320000) -->
 <!-- ![Static Badge](https://img.shields.io/badge/SvelteKit-%231c1b1e?style=for-the-badge&logo=Svelte&color=%23320000) -->
 <!-- ![Static Badge](https://img.shields.io/badge/Django-%231c1b1e?style=for-the-badge&logo=Django&color=%23320000) -->
@@ -66,19 +71,10 @@ Click here to expand!
 ![Static Badge](https://img.shields.io/badge/English-%231c1b1e?style=for-the-badge)
 <!-- ![Static Badge](https://img.shields.io/badge/Italiano-%231c1b1e?style=for-the-badge&color=%23320000) -->
 
-<!-- <span style="opacity: 0.2"> -->
-
 ### Open to Learn
 
-![Static Badge](https://img.shields.io/badge/More%20Technologies-%231c1b1e?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Other%20Stuff-%231c1b1e?style=for-the-badge)
-<!-- ![Static Badge](https://img.shields.io/badge/Rust-%231c1b1e?style=for-the-badge&logo=Rust) -->
-<!-- ![Static Badge](https://img.shields.io/badge/Go-%231c1b1e?style=for-the-badge&logo=Go) -->
-<!-- ![Static Badge](https://img.shields.io/badge/AND%20MORE!-%231c1b1e?style=for-the-badge) -->
+![Static Badge](https://img.shields.io/badge/Even%20more-%231c1b1e?style=for-the-badge)
 
-<!-- </span> -->
-
-<!-- \* Red means I do know know it much, possiblely learning or vague to none understanding.\ -->
 <!-- </details> -->
 
 <br/>
