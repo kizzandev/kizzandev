@@ -5,8 +5,8 @@
 Interested in opportunities such as full or part time remote jobs.
 
 <span style="display:flex; gap: 5px">
-<a href="https://github.com/kevinzanzi?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kevinzanzi?color=1155ba&style=for-the-badge&labelColor=1155ba&logo=star"/>
+<a href="https://github.com/kizendev?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kizendev?color=1155ba&style=for-the-badge&labelColor=1155ba&logo=star"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kevinzanzi/">
