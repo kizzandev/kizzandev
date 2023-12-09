@@ -2,7 +2,7 @@
 
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=16&pause=0000&color=E6EDF3&vCenter=true&width=435&lines=Kevin+Zanzi;Software+Developer;Software+Engineer;Systems+Engineer" alt="Typing SVG" style="width:100%;" /> -->
 
-Interested in opportunities such as full or part time remote jobs.
+Self-driven developer with a proactive approach, emphasizing effective problem solving. Aiming to advance my career through collaborative teamwork, expanding both knowledge and experience.
 
 <span style="display:flex; gap: 5px">
 <a href="https://github.com/kizendev?tab=repositories&sort=stargazers">
