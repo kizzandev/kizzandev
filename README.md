@@ -1,18 +1,17 @@
 <h1>Hello, Kevin here.</h1>
 
-<!-- <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=16&pause=0000&color=E6EDF3&vCenter=true&width=435&lines=Kevin+Zanzi;Software+Developer;Software+Engineer;Systems+Engineer" alt="Typing SVG" style="width:100%;" /> -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=16&pause=0000&color=E6EDF3&vCenter=true&width=435&lines=Kizzan.dev;Software+Developer;Full+Stack+Developer;Front+End+Developer;Always+Learning" alt="Typing SVG" style="width:100%;" />
 
-Self-driven developer with a proactive approach, emphasizing effective problem solving. Aiming to advance my career through collaborative teamwork, expanding both knowledge and experience.
+Software developer with hands-on experience in remote frontend development, specializing in React, JavaScript, TypeScript, and Tailwind CSS. Proficient in Agile methodologies, thriving in collaborative squad environments to deliver innovative solutions efficiently.
 
-<span style="display:flex; gap: 5px">
-<a href="https://github.com/kizzandev?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kizzandev?color=1155ba&style=for-the-badge&labelColor=1155ba&logo=star"/>
+<a href="https://github.com/kizzandev?tab=repositories&sort=stargazers/">
+  <img alt="total stars on GitHub" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kizzandev?color=1155ba&style=for-the-badge&labelColor=1155ba&logo=star"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/kevinzanzi/">
-  <img alt="Linked In Profile" title="Add me on Linked In" src="https://img.shields.io/badge/Linked%20In-%231155ba?style=for-the-badge&logo=LinkedIn"/>
+  <img alt="LinkedIn profile link" title="LinkedIn profile link" src="https://img.shields.io/badge/Linked%20In-%231155ba?style=for-the-badge&logo=LinkedIn"/>
 </a>
-</span>
+
 
 <!-- --- -->
 
@@ -67,7 +66,7 @@ Click here to expand!
 
 ### Languages
 
-![Static Badge](https://img.shields.io/badge/Argentino-%231c1b1e?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/Español_(AR)-%231c1b1e?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/English-%231c1b1e?style=for-the-badge)
 <!-- ![Static Badge](https://img.shields.io/badge/Italiano-%231c1b1e?style=for-the-badge&color=%23320000) -->
 
