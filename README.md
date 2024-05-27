@@ -1,10 +1,13 @@
-<h1>Hello, Kevin here.</h1>
+# Hello, Kevin here.
 
 &nbsp;
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=16&pause=0000&color=E6EDF3&vCenter=true&width=435&lines=Kizzan.dev;Software+Developer;Full+Stack+Developer;Front+End+Developer;Always+Learning" alt="Typing SVG" style="width:100%;" />
 
 Software developer with hands-on experience in remote frontend development, specializing in React, JavaScript, TypeScript, and Tailwind CSS. Proficient in Agile methodologies, thriving in collaborative squad environments to deliver innovative solutions efficiently.
+
+
+
 
 <a href="https://github.com/kizzandev?tab=repositories&sort=stargazers/">
   <img alt="total stars on GitHub" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kizzandev?color=1155ba&style=for-the-badge&labelColor=1155ba&logo=star"/>
@@ -44,6 +47,9 @@ Click here to expand!
 ![Static Badge](https://img.shields.io/badge/Tailwindcss-%231c1b1e?style=for-the-badge&logo=Tailwindcss)
 ![Static Badge](https://img.shields.io/badge/npm-%231c1b1e?style=for-the-badge&logo=npm)
 ![Static Badge](https://img.shields.io/badge/pnpm-%231c1b1e?style=for-the-badge&logo=pnpm)
+![Static Badge](https://img.shields.io/badge/Astro-%231c1b1e?style=for-the-badge&logo=Astro)
+![Static Badge](https://img.shields.io/badge/Next.js-%231c1b1e?style=for-the-badge&logo=Next.js)
+![Static Badge](https://img.shields.io/badge/Express.js-%231c1b1e?style=for-the-badge&logo=Express.js)
 <!-- ![Static Badge](https://img.shields.io/badge/Svelte-%231c1b1e?style=for-the-badge&logo=Svelte&color=%23320000) -->
 <!-- ![Static Badge](https://img.shields.io/badge/SvelteKit-%231c1b1e?style=for-the-badge&logo=Svelte&color=%23320000) -->
 <!-- ![Static Badge](https://img.shields.io/badge/Django-%231c1b1e?style=for-the-badge&logo=Django&color=%23320000) -->
@@ -56,6 +62,8 @@ Click here to expand!
 ![Static Badge](https://img.shields.io/badge/VSCode-%231c1b1e?style=for-the-badge&logo=VisualStudioCode)
 ![Static Badge](https://img.shields.io/badge/Figma-%231c1b1e?style=for-the-badge&logo=Figma)
 ![Static Badge](https://img.shields.io/badge/Git-%231c1b1e?style=for-the-badge&logo=Git)
+![Static Badge](https://img.shields.io/badge/Slack-%231c1b1e?style=for-the-badge&logo=Slack)
+![Static Badge](https://img.shields.io/badge/Markdown-%231c1b1e?style=for-the-badge&logo=Markdown)
 
 <!-- ### Databases -->
 
@@ -65,6 +73,7 @@ Click here to expand!
 ### Operating Systems
 
 ![Static Badge](https://img.shields.io/badge/Windows_10-%231c1b1e?style=for-the-badge&logo=Windows)
+![Static Badge](https://img.shields.io/badge/WSL2-%231c1b1e?style=for-the-badge&logo=linux&logoColor=white)
 
 ### Languages
 
