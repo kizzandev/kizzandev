@@ -5,8 +5,8 @@
 Self-driven developer with a proactive approach, emphasizing effective problem solving. Aiming to advance my career through collaborative teamwork, expanding both knowledge and experience.
 
 <span style="display:flex; gap: 5px">
-<a href="https://github.com/kizendev?tab=repositories&sort=stargazers">
-  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kizendev?color=1155ba&style=for-the-badge&labelColor=1155ba&logo=star"/>
+<a href="https://github.com/kizzandev?tab=repositories&sort=stargazers">
+  <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kizzandev?color=1155ba&style=for-the-badge&labelColor=1155ba&logo=star"/>
 </a>
 
 <a href="https://www.linkedin.com/in/kevinzanzi/">
