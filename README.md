@@ -6,18 +6,17 @@
 
 Software developer with hands-on experience in remote frontend development, specializing in React, JavaScript, TypeScript, and Tailwind CSS. Proficient in Agile methodologies, thriving in collaborative squad environments to deliver innovative solutions efficiently.
 
+<!-- --- -->
 
+[![GitHub User's stars](https://img.shields.io/github/stars/kizzandev?affiliations=OWNER&style=for-the-badge&labelColor=%231c1b1e)](https://github.com/kizzandev?tab=repositories&sort=stargazers/)
+![GitHub followers](https://img.shields.io/github/followers/kizzandev?style=for-the-badge&labelColor=%231c1b1e)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinzanzi/)
 
-
-<a href="https://github.com/kizzandev?tab=repositories&sort=stargazers/">
-  <img alt="total stars on GitHub" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/kizzandev?color=1155ba&style=for-the-badge&labelColor=1155ba&logo=star"/>
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/kevinzanzi/">
-  <img alt="LinkedIn profile link" title="LinkedIn profile link" src="https://img.shields.io/badge/Linked%20In-%231155ba?style=for-the-badge&logo=LinkedIn"/>
-</a>
-
-
+[![Twitch Status](https://img.shields.io/twitch/status/kizzandev?style=for-the-badge&logo=twitch&labelColor=%231c1b1e)](https://www.twitch.tv/kizzandev)
+<!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChUg0FSY3YIeo5t6SNtlo9Q?style=for-the-badge&logo=youtube&labelColor=%231c1b1e)
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UChUg0FSY3YIeo5t6SNtlo9Q?style=for-the-badge&logo=youtube&labelColor=%231c1b1e)
+-->
+ 
 <!-- --- -->
 
 ## Technical Skills 💻
@@ -81,13 +80,25 @@ Click here to expand!
 ![Static Badge](https://img.shields.io/badge/English-%231c1b1e?style=for-the-badge)
 <!-- ![Static Badge](https://img.shields.io/badge/Italiano-%231c1b1e?style=for-the-badge&color=%23320000) -->
 
-### Open to Learn
+<!-- ### Open to Learn
 
 ![Static Badge](https://img.shields.io/badge/Even%20more-%231c1b1e?style=for-the-badge)
+-->
 
 <!-- </details> -->
 
-<br/>
+<!-- <br/> -->
+
+<hr/>
+
+### Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kizzandev&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizzandev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<hr/>
 
 <!--
 #
