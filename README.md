@@ -2,7 +2,7 @@
 
 &nbsp;
 
-<a href="https://blog.kizzan.dev/en" target="_black" rel="noopenner norefferer" >
+<a href="https://blog.kizzan.dev/en" target="_blank" rel="noopenner norefferer" >
  <img src="https://readme-typing-svg.herokuapp.com?font=Edu+TAS+Beginner&size=16&pause=0000&color=E6EDF3&vCenter=true&width=435&lines=Kizzan.dev;Software+Developer;Full+Stack+Developer;Front+End+Developer;Always+Learning" alt="Typing SVG" style="width:100%;" />
 </a>
 
