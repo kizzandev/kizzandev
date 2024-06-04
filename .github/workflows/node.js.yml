@@ -1,0 +1,31 @@
+name: Update README.md
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+  schedule:
+    # minutes hours day-of-month month day-of-week
+    # Every 4 hours
+    - cron: "0 */4 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+      - run: npm install node-fetch rss-parser
+      - run: npm run update-readme
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      - run: |
+        git config user.name kizzandev
+        git config user.mail 69643444+kizzandev@users.noreply.github.com
+        git add README.md
+        git diff --quiet && git diff --staged --quiet || git commit -m "[bot] Update README with latest info"
+        git push origin main
