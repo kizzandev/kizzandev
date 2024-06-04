@@ -16,10 +16,8 @@ Software developer with hands-on experience in remote frontend development, spec
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/kizzandev) -->
 <!-- [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/kizzandev) -->
 
-## Technical Skills 💻
-
 <details>
-  <summary>Click to expand!</summary>
+  <summary><h2>Technical Skills 💻</h2></summary>
 
 ### Programming Languages
 
@@ -79,14 +77,12 @@ Software developer with hands-on experience in remote frontend development, spec
 
 </details>
 
-## Stats 📊
-
 <details>
-  <summary>Click to expand!</summary>
+  <summary><h2>Stats 📊</h2></summary>
 
 ### Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kizzandev&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kizzandev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=-1)
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizzandev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 

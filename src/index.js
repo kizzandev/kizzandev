@@ -32,7 +32,7 @@ const genYoutubeCard = ({ title, videoId }) => `
   const [template, articles, videos] = await Promise.all([
     fs.readFile("./src/README.md.tpl", { encoding: "utf-8" }),
     getLatestArticles(),
-    getLatestYoutubeVideos(),
+    // getLatestYoutubeVideos(),
   ]);
 
   const latestsArticlesMd = articles.items
