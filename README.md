@@ -18,6 +18,9 @@ Software developer with hands-on experience in remote frontend development, spec
 
 ## Technical Skills 💻
 
+<details>
+  <summary>Click to expand!</summary>
+
 ### Programming Languages
 
 ![Static Badge](https://img.shields.io/badge/Python-%231c1b1e?style=for-the-badge&logo=Python)
@@ -74,13 +77,20 @@ Software developer with hands-on experience in remote frontend development, spec
 
 <!-- ![Static Badge](https://img.shields.io/badge/Italiano-%231c1b1e?style=for-the-badge&color=%23320000) -->
 
+</details>
+
 ## Stats 📊
+
+<details>
+  <summary>Click to expand!</summary>
 
 ### Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=Kizzandev&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizzandev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+</details>
 
 ## Latest Articles at my [Blog](https://blog.kizzan.dev) 📝
 
