@@ -10,7 +10,11 @@ const { YOUTUBE_API_KEY } = process.env;
 
 const parser = new Parser();
 
+// english
 const getLatestArticles = () =>
+  parser.parseURL("https://blog.kizzan.dev/en/rss.xml");
+// argenitian
+const tomarUltimosArticulos = () =>
   parser.parseURL("https://blog.kizzan.dev/rss.xml");
 
 const getLatestYoutubeVideos = (
@@ -29,9 +33,10 @@ const genYoutubeCard = ({ title, videoId }) => `
 `;
 
 (async () => {
-  const [template, articles, videos] = await Promise.all([
+  const [template, articles, articulos, videos] = await Promise.all([
     fs.readFile("./src/README.md.tpl", { encoding: "utf-8" }),
     getLatestArticles(),
+    tomarUltimosArticulos(),
     // getLatestYoutubeVideos(),
   ]);
 
@@ -44,6 +49,11 @@ const genYoutubeCard = ({ title, videoId }) => `
     //   )
     .join("\n");
 
+  const ultimosArticulosMd = articulos.items
+    .slice(0, NUMBER_OF.ARTICLES)
+    .map(({ title, link, content }) => `- [${title}](${link})`)
+    .join("\n");
+
   /*const latestsVideosMd = videos
     .map(({ snippet }) => {
       const { title, resourceId } = snippet;
@@ -52,10 +62,9 @@ const genYoutubeCard = ({ title, videoId }) => `
     })
     .join("");*/
 
-  const newMd = template.replace(
-    PLACEHOLDERS.LATESTS_ARTICLES,
-    latestsArticlesMd
-  );
+  const newMd = template
+    .replace(PLACEHOLDERS.LATESTS_ARTICLES, latestsArticlesMd)
+    .replace(PLACEHOLDERS.ULTIMOS_ARTICULOS, ultimosArticulosMd);
   //.replace(PLACEHOLDERS.VIDEOS, latestsVideosMd);
 
   await fs.writeFile("README.md", newMd);

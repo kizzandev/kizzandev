@@ -88,9 +88,13 @@ Software developer with hands-on experience in remote frontend development, spec
 
 </details>
 
-## Latest Articles at my [Blog](https://blog.kizzan.dev) 📝
+## Latest Articles at my [Blog](https://blog.kizzan.dev/en) 📝
 
 %{{latests_articles}}%
+
+## Últimos Artículos en mi [Blog](https://blog.kizzan.dev) 📝
+
+%{{ultimos_articulos}}%
 
 <!-- ## Latest Videos 📺
 
