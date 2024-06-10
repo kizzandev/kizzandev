@@ -1,4 +1,4 @@
-# Hello, Kevin here
+![banner](./banner_v1.svg)
 
 Software developer with hands-on experience in remote frontend development, specializing in React, JavaScript, TypeScript, and Tailwind CSS. Proficient in Agile methodologies, thriving in collaborative squad environments to deliver innovative solutions efficiently.
 
