@@ -91,10 +91,12 @@ Software developer with hands-on experience in remote frontend development, spec
 ## Latest Articles at my [Blog](https://blog.kizzan.dev/en) 📝
 
 - [Blog Init](https://blog.kizzan.dev/en/article/blog-init/)
+- [Who is Kevin](https://blog.kizzan.dev/en/article/who-is-kevin/)
 
 ## Últimos Artículos en mi [Blog](https://blog.kizzan.dev) 📝
 
 - [Blog Init](https://blog.kizzan.dev/article/blog-init/)
+- [Quién es Kevin](https://blog.kizzan.dev/article/quien-es-kevin/)
 
 <!-- ## Latest Videos 📺
 
