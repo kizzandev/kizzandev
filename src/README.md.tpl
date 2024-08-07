@@ -1,6 +1,7 @@
 ![banner](./banner_v1.svg)
 
-Software developer with hands-on experience in remote frontend development, specializing in React, JavaScript, TypeScript, and Tailwind CSS. Proficient in Agile methodologies, thriving in collaborative squad environments to deliver innovative solutions efficiently.
+Software developer with hands-on experience in remote frontend development, specializing in React, JavaScript, and TypeScript. Proficient in collaborative environments. And with 3+ years of experience in the world of programming.
+Great adaptability and open to Fullstack and Backend jobs; Additionally, Cybersecurity trainee roles are a possibility as well.
 
 [![GitHub User's stars](https://img.shields.io/github/stars/kizzandev?affiliations=OWNER&style=for-the-badge&labelColor=%231c1b1e)](https://github.com/kizzandev?tab=repositories&sort=stargazers/)
 ![GitHub followers](https://img.shields.io/github/followers/kizzandev?style=for-the-badge&labelColor=%231c1b1e)
@@ -10,11 +11,14 @@ Software developer with hands-on experience in remote frontend development, spec
 <!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChUg0FSY3YIeo5t6SNtlo9Q?style=for-the-badge&logo=youtube&labelColor=%231c1b1e)
 -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinzanzi/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinzanzi/) -->
 
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-red.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@kizzandev) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/kizzandev) -->
 <!-- [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/kizzandev) -->
+
+> [!IMPORTANT]
+> Please consider contacting me through my [@email](mailto:kevin@kizzan.dev), leaving my [LinkedIn profile](https://www.linkedin.com/in/kevinzanzi/) as a secondary choice.
 
 <details>
   <summary><h2>Technical Skills 💻</h2></summary>
@@ -90,5 +94,7 @@ Software developer with hands-on experience in remote frontend development, spec
 <!-- ## Latest Videos 📺
 
 %{{latests_youtube}}% -->
+
+#
 
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizzandev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
