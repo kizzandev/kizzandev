@@ -77,16 +77,7 @@ Software developer with hands-on experience in remote frontend development, spec
 
 </details>
 
-<details>
-  <summary><h2>Stats 📊</h2></summary>
-
-### Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kizzandev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=-1)
-
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizzandev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</details>
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kizzandev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&![Trophies](https://github-profile-trophy.vercel.app/?username=Kizzandev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&title=MultipleLang,Joined2020,Commits,Repositories,Experience,Stars,Followers))
 
 ## Latest Articles at my [Blog](https://blog.kizzan.dev/en) 📝
 
@@ -99,3 +90,5 @@ Software developer with hands-on experience in remote frontend development, spec
 <!-- ## Latest Videos 📺
 
 %{{latests_youtube}}% -->
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Kizzandev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
