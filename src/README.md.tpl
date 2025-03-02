@@ -1,23 +1,24 @@
 ![banner](./banner_v1.svg)
 
-Software Developer experienced in frontend development with React, JavaScript, TypeScript, and Tailwind CSS. Currently navigating the backend development towards a great full stack.
+Hello, I'm Kevin 👋🏼!
+
+Feel free to connect with me on [LinkedIn profile](https://www.linkedin.com/in/kevinzanzi/), whether it's for professional opportunities or simply to have a chat over a virtual coffee.
+
+
 
 [![GitHub User's stars](https://img.shields.io/github/stars/kizzandev?affiliations=OWNER&style=for-the-badge&labelColor=%231c1b1e)](https://github.com/kizzandev?tab=repositories&sort=stargazers/)
 ![GitHub followers](https://img.shields.io/github/followers/kizzandev?style=for-the-badge&labelColor=%231c1b1e)
 
 [![Twitch Status](https://img.shields.io/twitch/status/kizzandev?style=for-the-badge&logo=twitch&labelColor=%231c1b1e)](https://www.twitch.tv/kizzandev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kevinzanzi/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-%23006699.svg?logo=Computer&logoColor=white&style=for-the-badge)](https://cv.kizzan.dev)
 
 <!-- ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UChUg0FSY3YIeo5t6SNtlo9Q?style=for-the-badge&logo=youtube&labelColor=%231c1b1e)
 -->
 
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinzanzi/) -->
-
 <!-- [![YouTube](https://img.shields.io/badge/YouTube-red.svg?logo=youtube&logoColor=white)](https://www.youtube.com/@kizzandev) -->
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://www.instagram.com/kizzandev) -->
 <!-- [![X](https://img.shields.io/badge/X-%231DA1F2.svg?logo=x&logoColor=white)](https://x.com/kizzandev) -->
-
-> [!IMPORTANT]
-> Please consider contacting me through my [@email](mailto:kevin@kizzan.dev), leaving my [LinkedIn profile](https://www.linkedin.com/in/kevinzanzi/) as a secondary choice.
 
 <details>
   <summary><h2>Technical Skills 💻</h2></summary>
@@ -26,18 +27,18 @@ Software Developer experienced in frontend development with React, JavaScript, T
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-%231c1b1e?style=for-the-badge&logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/TypeScript-%231c1b1e?style=for-the-badge&logo=TypeScript)
-![Static Badge](https://img.shields.io/badge/(familiar)-%231c1b1e?style=for-the-badge&logo=Rust&label=Rust&labelColor=%231c1b1e)
-![Static Badge](https://img.shields.io/badge/(familiar)-%231c1b1e?style=for-the-badge&logo=Python&label=Python&labelColor=%231c1b1e)
+![Static Badge](https://img.shields.io/badge/Rust-%231c1b1e?style=for-the-badge&logo=Rust)
+![Static Badge](https://img.shields.io/badge/Python-%231c1b1e?style=for-the-badge&logo=Python)
 
-<!-- ![Static Badge](https://img.shields.io/badge/(familiar)-%231c1b1e?style=for-the-badge&logo=C%2B%2B&label=C%2B%2B&labelColor=%231c1b1e) -->
+<!-- ![Static Badge](https://img.shields.io/badge/C%2B%2B-%231c1b1e?style=for-the-badge&logo=C%2B%2B) -->
 <!-- ![Static Badge](https://img.shields.io/badge/GDScript-%231c1b1e?style=for-the-badge&logo=GodotEngine&color=%23320000) -->
 <!-- ![Static Badge](https://img.shields.io/badge/Mojo-%231c1b1e?style=for-the-badge&label=%F0%9F%94%A5&labelColor=%23320000&color=%23320000) -->
 
 ### Front End Development
 
+![Static Badge](https://img.shields.io/badge/React-%231c1b1e?style=for-the-badge&logo=React)
 ![Static Badge](https://img.shields.io/badge/HTML5-%231c1b1e?style=for-the-badge&logo=HTML5)
 ![Static Badge](https://img.shields.io/badge/CSS3-%231c1b1e?style=for-the-badge&logo=CSS3)
-![Static Badge](https://img.shields.io/badge/React-%231c1b1e?style=for-the-badge&logo=React)
 ![Static Badge](https://img.shields.io/badge/Tailwindcss-%231c1b1e?style=for-the-badge&logo=Tailwindcss)
 
 ### Back End Development
@@ -64,8 +65,8 @@ Software Developer experienced in frontend development with React, JavaScript, T
 
 ### Languages
 
-![Static Badge](<https://img.shields.io/badge/Español-%231c1b1e?style=for-the-badge>)
-![Static Badge](https://img.shields.io/badge/English-%231c1b1e?style=for-the-badge)
+![Static Badge](<https://img.shields.io/badge/Español%2Fnative-%231c1b1e?style=for-the-badge>)
+![Static Badge](https://img.shields.io/badge/English%2Fadvanced-%231c1b1e?style=for-the-badge)
 
 <!-- ![Static Badge](https://img.shields.io/badge/Italiano-%231c1b1e?style=for-the-badge&color=%23320000) -->
 
