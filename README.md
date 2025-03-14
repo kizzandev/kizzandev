@@ -1,4 +1,4 @@
-![banner](./banner_v1.svg)
+![banner](./banner_v2.png)
 
 Hello, I'm Kevin 👋🏼!
 
