@@ -60,14 +60,12 @@ Hi, I'm Kevin 👋🏼! I am a Full Stack Software Engineer based in Buenos Aire
 
 <!-- </details> -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kizzandev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/kizzandev)
-
-
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Kizzandev&theme=onedark&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/kizzandev) -->
 
 ## Latest Articles at my Blog 📝
 
-- [Blog Init](https://blog.kizzan.dev/en/article/blog-init/)
 - [Who is Kevin](https://blog.kizzan.dev/en/article/who-is-kevin/)
+- [Blog Init](https://blog.kizzan.dev/en/article/blog-init/)
 
 <!-- ## Últimos Artículos en mi Blog 📝
 
