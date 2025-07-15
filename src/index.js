@@ -42,6 +42,7 @@ const genYoutubeCard = ({ title, videoId }) => `
 
   const latestsArticlesMd = articles.items
     .slice(0, NUMBER_OF.ARTICLES)
+    .reverse()
     .map(({ title, link, content }) => `- [${title}](${link})`)
     //   .map(
     //     ({ title, link, content }) => `- [${title}](${link})
