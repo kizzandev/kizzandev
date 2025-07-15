@@ -49,10 +49,10 @@ const genYoutubeCard = ({ title, videoId }) => `
     //   )
     .join("\n");
 
-  const ultimosArticulosMd = articulos.items
-    .slice(0, NUMBER_OF.ARTICLES)
-    .map(({ title, link, content }) => `- [${title}](${link})`)
-    .join("\n");
+  // const ultimosArticulosMd = articulos.items
+  //   .slice(0, NUMBER_OF.ARTICLES)
+  //   .map(({ title, link, content }) => `- [${title}](${link})`)
+  //   .join("\n");
 
   /*const latestsVideosMd = videos
     .map(({ snippet }) => {
@@ -64,7 +64,7 @@ const genYoutubeCard = ({ title, videoId }) => `
 
   const newMd = template
     .replace(PLACEHOLDERS.LATESTS_ARTICLES, latestsArticlesMd)
-    .replace(PLACEHOLDERS.ULTIMOS_ARTICULOS, ultimosArticulosMd);
+    // .replace(PLACEHOLDERS.ULTIMOS_ARTICULOS, ultimosArticulosMd);
   //.replace(PLACEHOLDERS.VIDEOS, latestsVideosMd);
 
   await fs.writeFile("README.md", newMd);
