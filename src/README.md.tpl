@@ -11,20 +11,21 @@ Hi, I'm Kevin 👋🏼! I am a Full Stack Software Engineer based in Buenos Aire
 <!-- <details>
   <summary><h2>Skills 💻</h2></summary> -->
 
-<h2>Skills 💻</h2>
+<h2 id="skills">Skills 💻</h2>
 
-![Static Badge](https://img.shields.io/badge/JavaScript-%231c1b1e?style=for-the-badge&logo=JavaScript)
-![Static Badge](https://img.shields.io/badge/TypeScript-%231c1b1e?style=for-the-badge&logo=TypeScript)
-![Static Badge](https://img.shields.io/badge/React-%231c1b1e?style=for-the-badge&logo=React)
-![Static Badge](https://img.shields.io/badge/HTML5-%231c1b1e?style=for-the-badge&logo=HTML5)
-![Static Badge](https://img.shields.io/badge/CSS3-%231c1b1e?style=for-the-badge&logo=CSS)
-![Static Badge](https://img.shields.io/badge/Tailwindcss-%231c1b1e?style=for-the-badge&logo=Tailwindcss)
-![Static Badge](https://img.shields.io/badge/Next.js-%231c1b1e?style=for-the-badge&logo=Next.js)
-![Static Badge](https://custom-icon-badges.demolab.com/badge/VS%20Code-1c1b1e.svg?logo=vsc&logoColor=0078d7&style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/Git-%231c1b1e?style=for-the-badge&logo=Git)
-![Static Badge](https://img.shields.io/badge/GitHub-%231c1b1e?style=for-the-badge&logo=GitHub)
-![Static Badge](https://img.shields.io/badge/Markdown-%231c1b1e?style=for-the-badge&logo=Markdown)
-![Static Badge](https://img.shields.io/badge/WSL2-%231c1b1e?style=for-the-badge&logo=linux&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%231c1b1e?style=for-the-badge&logo=JavaScript)](##skills)
+[![Typescript](https://img.shields.io/badge/TypeScript-%231c1b1e?style=for-the-badge&logo=TypeScript)](##skills)
+[![ReactJS](https://img.shields.io/badge/React.JS-%231c1b1e?style=for-the-badge&logo=React)](##skills)
+[![HTML5](https://img.shields.io/badge/HTML5-%231c1b1e?style=for-the-badge&logo=HTML5)](##skills)
+[![CSS3](https://img.shields.io/badge/CSS3-%231c1b1e?style=for-the-badge&logo=CSS&logoColor=2965f1)](##skills)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwindcss-%231c1b1e?style=for-the-badge&logo=Tailwindcss)](##skills)
+[![NextJS](https://img.shields.io/badge/Next.js-%231c1b1e?style=for-the-badge&logo=Next.js)](##skills)
+[![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-1c1b1e.svg?logo=visualstudio&logoColor=0078d7&style=for-the-badge)](##skills)
+[![Git](https://img.shields.io/badge/Git-%231c1b1e?style=for-the-badge&logo=Git)](##skills)
+[![GitHub](https://img.shields.io/badge/GitHub-%231c1b1e?style=for-the-badge&logo=GitHub)](##skills)
+[![Markdown](https://img.shields.io/badge/Markdown-%231c1b1e?style=for-the-badge&logo=Markdown)](##skills)
+[![WSL2](https://img.shields.io/badge/WSL2-%231c1b1e?style=for-the-badge&logo=Linux)](##skills)
+[![Cloudflare](https://img.shields.io/badge/Cloudflare-%231c1b1e?style=for-the-badge&logo=Cloudflare)](##skills)
 
 <!-- ### Programming Languages -->
 
