@@ -65,7 +65,8 @@ Hi, I'm Kevin 👋🏼! I am a Full Stack Software Engineer based in Buenos Aire
 
 ## Latest Articles at my Blog 📝
 
-- [How to find your strengths](https://blog.kizzan.dev/en/article/how-to-find-your-strengths/)
+- [How to find your strengths](https://blog.kizzan.dev/en/article/how-to-find-your-strengths/) <time style="font-size: 0.8rem;color: #888">• 2025-07-23</time>
+  - Strengths are where we naturally excel. It's important to know them to use them effectively, and if we don't find a place to apply them, we can look for or create opportunities that leverage them.
 
 <!-- ## Últimos Artículos en mi Blog 📝
 
