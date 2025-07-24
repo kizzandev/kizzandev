@@ -65,9 +65,9 @@ Hi, I'm Kevin 👋🏼! I am a Full Stack Software Engineer based in Buenos Aire
 
 ## Latest Articles at my Blog 📝
 
-- [Who is Kevin](https://blog.kizzan.dev/en/article/who-is-kevin/)
 - [How to find your strengths](https://blog.kizzan.dev/en/article/how-to-find-your-strengths/)
-- [Blog Init](https://blog.kizzan.dev/en/article/blog-init/)
+- [Who is Kevin](https://blog.kizzan.dev/en/article/_who-is-kevin/)
+- [Blog Init](https://blog.kizzan.dev/en/article/_blog-init/)
 
 <!-- ## Últimos Artículos en mi Blog 📝
 
