@@ -84,7 +84,7 @@ const genYoutubeCard = ({ title, videoId }) => `
 
     const latestsArticlesMd = articles.items
       .slice(0, NUMBER_OF.ARTICLES)
-      .reverse()
+      .sort((a, b) => new Date(b.isoDate) - new Date(a.isoDate))
       .map(({ title, link }) => `- [${title}](${link})`)
       // .map(
       //   ({ title, link, content }) =>
