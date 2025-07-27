@@ -8,6 +8,17 @@ Hi, I'm Kevin 👋🏼! I am a Full Stack Software Engineer based in Buenos Aire
 [![Mail](https://img.shields.io/badge/GMAIL-%23D14836.svg?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:kevin@kizzan.dev)
 [![Twitch Status](https://img.shields.io/twitch/status/kizzandev?style=for-the-badge&logo=twitch&labelColor=%231c1b1e)](https://www.twitch.tv/kizzandev)
 
+<!-- ORDER OF OPERATIONS
+Programming Languages
+Front End Development
+Back End Development
+Full Stack Development
+Tools
+Operating Systems
+DevOps
+Cloud
+-->
+
 <!-- <details>
   <summary><h2>Skills 💻</h2></summary> -->
 
@@ -19,7 +30,11 @@ Hi, I'm Kevin 👋🏼! I am a Full Stack Software Engineer based in Buenos Aire
 [![HTML5](https://img.shields.io/badge/HTML5-%231c1b1e?style=for-the-badge&logo=HTML5)](##skills)
 [![CSS3](https://img.shields.io/badge/CSS3-%231c1b1e?style=for-the-badge&logo=CSS&logoColor=2965f1)](##skills)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwindcss-%231c1b1e?style=for-the-badge&logo=Tailwindcss)](##skills)
+[![MySQL](https://img.shields.io/badge/MYSQL-%231c1b1e?style=for-the-badge&logo=MYSQL)](##skills)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%231c1b1e?style=for-the-badge&logo=PostgreSQL)](##skills)
+[![MongoDB](https://img.shields.io/badge/MongoDB-%231c1b1e?style=for-the-badge&logo=MongoDB)](##skills)
 [![NextJS](https://img.shields.io/badge/Next.js-%231c1b1e?style=for-the-badge&logo=Next.js)](##skills)
+[![Astro](https://img.shields.io/badge/Astro-%231c1b1e?style=for-the-badge&logo=Astro)](##skills)
 [![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-1c1b1e.svg?logo=visualstudio&logoColor=0078d7&style=for-the-badge)](##skills)
 [![Git](https://img.shields.io/badge/Git-%231c1b1e?style=for-the-badge&logo=Git)](##skills)
 [![GitHub](https://img.shields.io/badge/GitHub-%231c1b1e?style=for-the-badge&logo=GitHub)](##skills)
@@ -43,8 +58,6 @@ Hi, I'm Kevin 👋🏼! I am a Full Stack Software Engineer based in Buenos Aire
 ![Static Badge](https://img.shields.io/badge/Express.js-%231c1b1e?style=for-the-badge&logo=Express) -->
 
 <!-- ### Full Stack Development -->
-
-<!-- ![Static Badge](https://img.shields.io/badge/Astro-%231c1b1e?style=for-the-badge&logo=Astro) -->
 
 <!-- ### Tools -->
 
