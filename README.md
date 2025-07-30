@@ -6,7 +6,7 @@ Hi, I'm Kevin 👋🏼! I am a Full Stack Software Engineer based in Buenos Aire
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/kevinzanzi/)
 [![Mail](https://img.shields.io/badge/GMAIL-%23D14836.svg?logo=Gmail&logoColor=white&style=for-the-badge)](mailto:kevin@kizzan.dev)
-[![Twitch Status](https://img.shields.io/twitch/status/kizzandev?style=for-the-badge&logo=twitch&labelColor=%231c1b1e)](https://www.twitch.tv/kizzandev)
+<!-- [![Twitch Status](https://img.shields.io/twitch/status/kizzandev?style=for-the-badge&logo=twitch&labelColor=%231c1b1e)](https://www.twitch.tv/kizzandev) -->
 
 <!-- ORDER OF OPERATIONS
 Programming Languages
